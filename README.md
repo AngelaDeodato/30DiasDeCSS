@@ -54,3 +54,12 @@ Fala Devs, beleza? 🖖
 * [Dia 28 - Cor do background mudando](#id28)
 * [Dia 29 - Menu responsivo com Media Queries](#id29)
 * [Dia 30 - Fogos de artificio](#id30)
+
+## Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+![Dia 01](https://j.gifs.com/vlAqJn.gif)
+[Meu codigo] (https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia1)
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[Transições CSS] (https://www.w3schools.com/css/css3_2dtransforms.asp)*
