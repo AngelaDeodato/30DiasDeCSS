@@ -1,0 +1,86 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    position: relative;
+    margin: 0px;
+    padding:0px;
+    display: inline-block;
+}
+
+ul li{
+    position: relative;
+    list-style: none;
+    width: 60px;
+    height: 60px;
+    margin: 5px 30px;
+}
+
+ul li span {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: rgb(207, 202, 202);
+    transition: 0.5s;
+    display: flex !important;/*Forçando o CSS a usar esta linha de codigo*/;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px !important;/*Forçando o CSS a usar esta linha de codigo*/
+    
+}
+
+/* Fazendo as camadas, empilhadas dos icones */
+ul li:hover span:nth-child(4)
+{
+    transform: translate(40px, -40px);
+    opacity: 1;
+}
+
+ul li:hover span:nth-child(3)
+{
+    transform: translate(30px, -30px);
+    opacity: .8;
+}
+
+ul li:hover span:nth-child(2)
+{
+    transform: translate(20px, -20px);
+    opacity: .6 ;
+}
+ul li:hover span:nth-child(1)
+{
+    transform: translate(10px, -10px);
+    opacity: .4;
+}
+/* fim Fazendo as camadas, empilhadas dos icones */
+
+/* Fazendo os icones mudarem de cor com hover */
+ul li:nth-child(1):hover span
+{
+    background: #3b5999;
+}
+
+ul li:nth-child(2):hover span
+{
+    background: #55acee;
+}
+
+ul li:nth-child(3):hover span
+{
+    background: #dd4b39;
+}
+
+ul li:nth-child(4):hover span
+{
+    background: #3b5999;
+}
+/* Fazendo os icones mudarem de cor com hover */
