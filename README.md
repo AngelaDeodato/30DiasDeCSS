@@ -63,3 +63,13 @@ Fala Devs, beleza? 🖖
 
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[Transições CSS] (https://www.w3schools.com/css/css3_2dtransforms.asp)*
+
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![Dia 02](https://j.gifs.com/9158oz.gif)
+[Meu codigo] (https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia2)
+
+##### O que eu aprendi
+
+* *[text-shadow] (https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)*
+* *[animation] (https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframes] (https://www.w3schools.com/css/css3_animations.asp)*
