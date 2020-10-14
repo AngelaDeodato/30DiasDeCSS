@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #121212;
+}
+
+.loader {
+    position: absolute ;
+    top: 50%;
+    left: 50%;
+    background: transparent;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;   
+}
+/* Trazendo o H1 para dento do Circulo */
+.loader h1{
+    position: absolute;
+    z-index: 6;
+    background: transparent;
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 170px;
+    left: 30%;
+    font-size: 14px;
+    color: #4e4d4d;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: transform .5s;
+}
+
+/* Trazendo o hover neon */
+.loader h1:hover{
+    color: #fff000;
+    transform: scale(1.5);
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff000,
+     0 0 70px #fff000, 0 0 80px #fff000
+}
+
+.loader .face{
+    position: absolute;
+    border: 2px solid #121212;
+} 
+
+.loader .face.face1{
+    top: 2px;
+    left: 2px;
+    right: 2px;
+    bottom: 2px;
+    background: transparent;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+    border-radius: 50%;
+    border-left: 2px solid #fff000;
+    border-top: 2px solid #fff000;
+    animation: animate 3s linear infinite;
+}
+
+
+.loader .face.face2{
+    top: -1px;
+    left: -1px;
+    right: -1px;
+    bottom: -1px;
+    background: transparent;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+    border-radius: 50%;
+    border-right: 2px solid #fff000;
+    border-bottom: 2px solid #fff000;
+    animation: animate 3s linear reverse infinite;
+}
+
+.loader .face .circle{
+    position: absolute;
+    top: calc(50% - 1px);
+    left: 50%;
+    width: 50%;
+    height: 2px;
+    transform-origin: left;
+}
+ 
+.loader .face.face1 .circle
+{
+    transform: rotate(-45deg);
+}
+
+.loader .face.face2 .circle
+{
+    transform: rotate(-45deg);
+}
+
+/* Criando as bolinhas giratórias */
+.loader .face .circle:before{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #fff000;
+    top: -4px;
+    right: -6px;
+}
+/*Fim Criando as bolinhas giratórias */
+
+/*Deixando a bolinha mais iluminada*/
+.loader .face.face1 .circle:before
+{
+    background: #fff000;
+    box-shadow: 0 0 30px #ff0,
+                0 0 40px #ff0, 
+                0 0 60px #ff0,
+                0 0 80px #ff0,
+                0 0 100px #ff0,
+                0 0 0 5px rgba(255,255,0,.1);
+}
+.loader .face.face2 .circle:before
+{
+    background: #fff000;
+    box-shadow: 0 0 30px #ff0,
+                0 0 40px #ff0, 
+                0 0 60px #ff0,
+                0 0 80px #ff0,
+                0 0 100px #ff0,
+                0 0 0 5px rgba(255,255,0,.1);
+}
+/* Fim Deixando a bolinha mais iluminada*/
+
+ /*Fazendo a movimentação das bolinhas */
+ @keyframes animate {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+} 
