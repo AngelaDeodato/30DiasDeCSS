@@ -57,7 +57,7 @@ Fala Devs, beleza? 🖖
 
 ## Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://j.gifs.com/vlAqJn.gif)
-[Meu codigo] (https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia1)
+[Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia1)
 
 ##### O que eu aprendi
 
@@ -73,3 +73,13 @@ Fala Devs, beleza? 🖖
 * *[text-shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)*
 * *[animation](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframes](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
+
+![Dia 03]
+
+[Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia3)
+
+##### O que eu aprendi
+
+* *[white-space](https://www.w3schools.com/cssref/pr_text_white-space.asp)*
