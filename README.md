@@ -87,7 +87,7 @@ Fala Devs, beleza? 🖖
 ##  Desafio dia 04 - Botão com efeito <a name="id04"></a>
 ![dia 04](https://j.gifs.com/xnDVoJ.gif)
 
-[Meu codigo]
+[Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia4)
 
 ##### O que eu aprendi
 
