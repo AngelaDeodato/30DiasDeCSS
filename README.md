@@ -76,10 +76,20 @@ Fala Devs, beleza? 🖖
 
 ##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
 
-![Dia 03]
+![Dia 03](https://gifs.com/gif/lxnv8l)
 
 [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia3)
 
 ##### O que eu aprendi
 
 * *[white-space](https://www.w3schools.com/cssref/pr_text_white-space.asp)*
+
+##  Desafio dia 04 - Botão com efeito <a name="id04"></a>
+![dia 04](https://j.gifs.com/xnDVoJ.gif)
+
+[Meu codigo]
+
+##### O que eu aprendi
+
+* *[SVG Stroke](https://www.w3schools.com/graphics/svg_stroking.asp)*
+* *[SVG Stroke rect](https://www.w3schools.com/graphics/svg_rect.asp)*
