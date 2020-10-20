@@ -94,12 +94,21 @@ Fala Devs, beleza? 🖖
 * *[SVG Stroke](https://www.w3schools.com/graphics/svg_stroking.asp)*
 * *[SVG Stroke rect](https://www.w3schools.com/graphics/svg_rect.asp)*
 
-##  Desafio Efeito pulsar <a name="id05"></a
-![dia 04](https://j.gifs.com/915YgB.gif)
+##  Desafio dia 05 - Efeito pulsar <a name="id05"></a
+![dia 05](https://j.gifs.com/915YgB.gif)
  
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia5)
  
  ##### O que eu aprendi
  
  * *Apliquei o que já foi aprendido nos desafios anteriores. *
+ 
+ ##  Desafio dia 06 - Efeito lightning text <a name="id06"></a
+ ![dia 05](https://j.gifs.com/jZlVnv.gif)
 
+[Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia6)
+
+
+ ##### O que eu aprendi
+ * *[display: table-cell](http://www.senktec.com/2014/01/using-css-display-table-cell-for-columns/)*
+ * *[filter: blur](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur)*
