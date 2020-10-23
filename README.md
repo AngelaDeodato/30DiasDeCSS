@@ -121,3 +121,12 @@ Fala Devs, beleza? 🖖
   ##### O que eu aprendi
  
  * *Apliquei o que já foi aprendido nos desafios anteriores. *
+ 
+  ##  Desafio dia 08 - Coração batendo <a name="id08"></a
+ ![dia 08](https://j.gifs.com/gZggVG.gif)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia8)
+ 
+  ##### O que eu aprendi
+  
+  * *Apliquei o que já foi aprendido nos desafios anteriores. *
