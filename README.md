@@ -112,3 +112,12 @@ Fala Devs, beleza? 🖖
  ##### O que eu aprendi
  * *[display: table-cell](http://www.senktec.com/2014/01/using-css-display-table-cell-for-columns/)*
  * *[filter: blur](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur)*
+ 
+  ##  Desafio dia 07 - Preloader animado <a name="id07"></a
+ ![dia 07](https://j.gifs.com/XLEKo5.gif)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia7)
+ 
+  ##### O que eu aprendi
+ 
+ * *Apliquei o que já foi aprendido nos desafios anteriores. *
