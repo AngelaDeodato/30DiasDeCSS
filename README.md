@@ -140,3 +140,12 @@ Fala Devs, beleza? 🖖
  
  * *[transform-origin](https://www.w3schools.com/CSSref/css3_pr_transform-origin.asp)*
  * *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
+
+##  Desafio dia 10 - Animação texto alternando <a name="id010"></a
+  ![dia 10](https://gifs.com/gif/lxnKvJ)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia10)
+ 
+  ##### O que eu aprendi
+  
+  * *Apliquei o que já foi aprendido nos desafios anteriores. *
