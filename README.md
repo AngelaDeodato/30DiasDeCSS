@@ -142,7 +142,7 @@ Fala Devs, beleza? 🖖
  * *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
 
 ##  Desafio dia 10 - Animação texto alternando <a name="id10)"></a
-  ![dia 10](https://j.gifs.com/lxnKvJ.gif)
+  ![dia 10](https://j.gifs.com/nxpMY4.gif)
  
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia10)
  
