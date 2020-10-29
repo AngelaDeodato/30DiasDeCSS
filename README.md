@@ -149,3 +149,12 @@ Fala Devs, beleza? 🖖
   ##### O que eu aprendi
   
   * *Apliquei o que já foi aprendido nos desafios anteriores. *
+  
+  ##  Desafio dia 10 - Botão com efeito hover <a name="id11"></a>
+  ![dia 011](https://j.gifs.com/L746pj.gif)
+  
+  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia11)
+  
+  #### O que eu aprendi
+  
+  * *[webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect)*
