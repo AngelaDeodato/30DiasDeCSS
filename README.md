@@ -94,7 +94,7 @@ Fala Devs, beleza? 🖖
 * *[SVG Stroke](https://www.w3schools.com/graphics/svg_stroking.asp)*
 * *[SVG Stroke rect](https://www.w3schools.com/graphics/svg_rect.asp)*
 
-##  Desafio dia 05 - Efeito pulsar <a name="id05"></a
+##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
 ![dia 05](https://j.gifs.com/915YgB.gif)
  
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia5)
@@ -103,7 +103,7 @@ Fala Devs, beleza? 🖖
  
  * *Apliquei o que já foi aprendido nos desafios anteriores. *
  
- ##  Desafio dia 06 - Efeito lightning text <a name="id06"></a
+ ##  Desafio dia 06 - Efeito lightning text <a name="id06"></a>
  ![dia 05](https://j.gifs.com/jZlVnv.gif)
 
 [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia6)
@@ -113,7 +113,7 @@ Fala Devs, beleza? 🖖
  * *[display: table-cell](http://www.senktec.com/2014/01/using-css-display-table-cell-for-columns/)*
  * *[filter: blur](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur)*
  
-  ##  Desafio dia 07 - Preloader animado <a name="id07"></a
+  ##  Desafio dia 07 - Preloader animado <a name="id07"></a>
  ![dia 07](https://j.gifs.com/XLEKo5.gif)
  
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia7)
@@ -122,7 +122,7 @@ Fala Devs, beleza? 🖖
  
  * *Apliquei o que já foi aprendido nos desafios anteriores. *
  
-  ##  Desafio dia 08 - Coração batendo <a name="id08"></a
+  ##  Desafio dia 08 - Coração batendo <a name="id08"></a>
  ![dia 08](https://j.gifs.com/gZggVG.gif)
  
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia8)
@@ -131,7 +131,7 @@ Fala Devs, beleza? 🖖
   
   * *Apliquei o que já foi aprendido nos desafios anteriores. *
   
-   ##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a
+   ##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
  ![dia 09](https://j.gifs.com/xnDYEB.gif)
  
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia9)
