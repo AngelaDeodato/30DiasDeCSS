@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.loading{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border-top: 10px solid #EB3B50;
+    animation: animate 2s linear infinite;
+}
+
+
+.loading:before, .loading:after{
+    content: '';
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: -10px;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.loading:before{
+    border-top: 10px solid #D343DE;
+    transform: rotate(120deg);
+}
+.loading:after{
+    border-top: 10px solid #4CC8F5;
+    transform: rotate(240deg);
+}
+
+.loading span{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    color: #fff;
+    text-align: center;
+    line-height: 200px;
+    animation: animate2 2s linear infinite;
+}
+
+@keyframes animate{
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes animate2{
+    to{
+        transform: rotate(-360deg);
+    }
+}
+
