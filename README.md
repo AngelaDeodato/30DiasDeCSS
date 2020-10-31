@@ -168,3 +168,15 @@ Fala Devs, beleza? 🖖
    #### O que eu aprendi
   
   * *[Cursor Pointer](https://www.w3schools.com/cssref/pr_class_cursor.asp)*
+  
+  
+  ##  Desafio dia 13 - Loading com efeito] <a name="id13"></a>
+  ![dia 013](https://j.gifs.com/YWgWmO.gif)
+  
+  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia13)
+  
+   #### O que eu aprendi
+  
+  * *[@keyframes to](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)*
+  
+  
