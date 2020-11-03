@@ -170,7 +170,7 @@ Fala Devs, beleza? 🖖
   * *[Cursor Pointer](https://www.w3schools.com/cssref/pr_class_cursor.asp)*
   
   
-  ##  Desafio dia 13 - Loading com efeito] <a name="id13"></a>
+  ##  Desafio dia 13 - Loading com efeito <a name="id13"></a>
   ![dia 013](https://j.gifs.com/YWgWmO.gif)
   
   [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia13)
@@ -179,4 +179,15 @@ Fala Devs, beleza? 🖖
   
   * *[@keyframes to](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)*
   
+    ##  Desafio dia 14 - Fundo de texto animado <a name="id14"></a>
+    ![dia 014](https://j.gifs.com/L745gX.gif)
+    
+    [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia14)
+    
+    
+   #### O que eu aprendi
   
+   * *[webkit-background-clip](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-clip)*
+   * *[webkit-text-fill-color](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)*
+   * *[webkit-text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)*
+   * *[background-position](https://www.w3schools.com/cssref/pr_background-position.asp)*
