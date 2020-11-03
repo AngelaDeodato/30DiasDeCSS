@@ -180,7 +180,7 @@ Fala Devs, beleza? 🖖
   * *[@keyframes to](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)*
   
     ##  Desafio dia 14 - Fundo de texto animado <a name="id14"></a>
-    ![dia 014](https://j.gifs.com/L745gX.gif)
+   ![Dia 14](https://j.gifs.com/L745gX.gif)
     
     [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia14)
     
