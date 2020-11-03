@@ -180,7 +180,7 @@ Fala Devs, beleza? 🖖
   * *[@keyframes to](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)*
   
     ##  Desafio dia 14 - Fundo de texto animado <a name="id14"></a>
-   ![Dia 14](https://j.gifs.com/gZz6X6.gif)
+   ![Dia 14](https://media.giphy.com/media/sZc2JWbRarXOSeZG7g/giphy.gif)
    
    [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia14)
     
@@ -193,7 +193,7 @@ Fala Devs, beleza? 🖖
 
 
 ##  Desafio dia 15 - Texto flutuante <a name="id15"></a>
- ![dia 15](https://j.gifs.com/p8MBnN.gif)
+ ![dia 15](https://media.giphy.com/media/s1it4dyxptwrFjXJIY/giphy.gif)
  
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia15)
  
