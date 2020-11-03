@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background: #030303;
+    min-height: 100vh;
+    display: flex;
+}
+
+h1{
+    margin: auto;
+    font-size: 250px;
+    line-height: 1;
+    background: url("https://i.pinimg.com/564x/0d/41/ed/0d41ed7dc79d93e34360cfad3c74a28a.jpg");
+    background-size: 500px;
+    -webkit-background-clip: text;/*Aprendizado*/
+    -webkit-text-fill-color: transparent;/*Aprendizado*/
+    -webkit-text-stroke: 2px #000;/*Aprendizado*/
+    animation: animate 10s linear infinite;
+    
+}
+
+@keyframes animate{
+    0%{
+        background-position: 0 0;/*Aprendizado*/
+    }
+    100%{
+      background-position: 500px -700px;  
+    }
+
+
+}
