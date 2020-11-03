@@ -190,3 +190,13 @@ Fala Devs, beleza? 🖖
    * *[webkit-text-fill-color](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)*
    * *[webkit-text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)*
    * *[background-position](https://www.w3schools.com/cssref/pr_background-position.asp)*
+
+
+##  Desafio dia 15 - Texto flutuante <a name="id15"></a>
+ ![dia 15](https://j.gifs.com/p8MBnN.gif)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia15)
+ 
+  #### O que eu aprendi
+  
+   * *[mix-blend-mode](https://www.w3schools.com/cssref/pr_mix-blend-mode.asp)*
