@@ -200,3 +200,15 @@ Fala Devs, beleza? 🖖
   #### O que eu aprendi
   
    * *[mix-blend-mode](https://www.w3schools.com/cssref/pr_mix-blend-mode.asp)*
+   
+   
+   ##  Desafio dia 16 -  Botão com efeito <a name="id16"></a>
+ ![dia 16](https://j.gifs.com/Mw4K1O.gif)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia16)
+ 
+  #### O que eu aprendi
+  
+   * *[Transitions](hhttps://www.w3schools.com/css/css3_transitions.asp)*
+   * *[skew](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew)*
+   * *[transition Property](https://www.w3schools.com/cssref/css3_pr_transition.asp)*
