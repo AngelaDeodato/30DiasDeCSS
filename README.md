@@ -212,3 +212,13 @@ Fala Devs, beleza? 🖖
    * *[Transitions](hhttps://www.w3schools.com/css/css3_transitions.asp)*
    * *[skew](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew)*
    * *[transition Property](https://www.w3schools.com/cssref/css3_pr_transition.asp)*
+   
+     ##  Desafio dia 17 -  Loader animado <a name="id17"></a>
+ ![dia 17](https://j.gifs.com/yoY53z.gif)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia17)
+ 
+  #### O que eu aprendi
+  
+   * *Apliquei o que já foi aprendido nos desafios anteriores. *
+ 
