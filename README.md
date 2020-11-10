@@ -222,3 +222,12 @@ Fala Devs, beleza? 🖖
   
    * *Apliquei o que já foi aprendido nos desafios anteriores. *
  
+ ##  Desafio dia 18 -  Texto Esfumaçado <a name="id18"></a>
+ ![dia 18](https://j.gifs.com/XL4RPW.gif)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia18)
+ 
+  #### O que eu aprendi
+  
+   * *Apliquei o que já foi aprendido nos desafios anteriores. *
+ 
