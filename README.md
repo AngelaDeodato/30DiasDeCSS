@@ -231,3 +231,14 @@ Fala Devs, beleza? 🖖
   
    * *Apliquei o que já foi aprendido nos desafios anteriores. *
  
+  ##  Desafio dia 19 -  Efeitos de animação de fundo de partículas <a name="id19"></a>
+ ![dia 19](https://j.gifs.com/Jy5ggJ.gif)
+ 
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia19)
+ 
+  #### O que eu aprendi
+  
+   * *[CSS: nth-child] https://tableless.com.br/nth-child/ *
+   * *[var()] https://developer.mozilla.org/pt-BR/docs/Web/CSS/var() *
+   * *[hue-rotate ()] https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/hue-rotate*
+ 
