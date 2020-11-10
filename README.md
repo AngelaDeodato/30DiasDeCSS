@@ -242,3 +242,12 @@ Fala Devs, beleza? 🖖
    * *[var()] https://developer.mozilla.org/pt-BR/docs/Web/CSS/var() *
    * *[hue-rotate ()] https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/hue-rotate*
  
+ ##  Desafio dia 20 -  Botão com Efeito <a name="id20"></a>
+  ![dia 20](https://j.gifs.com/WL4VQW.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia20)
+ 
+ #### O que eu aprendi
+ 
+ * *[transform-origin: left] https://www.w3schools.com/cssref/css3_pr_transform-origin.asp*
+ * *[background-size: cover] https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size*
