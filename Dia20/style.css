@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Pompiere', cursive;
+}
+body{
+    background: #E1BEE7;
+}
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container a {
+    position: relative;
+    width: 300px;
+    height: 75px;
+    margin: 10px 0;
+    font-size: 24px;
+    color: #000;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.container a:hover{
+    color:#fff;
+    font-weight: bold;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 5%;
+   
+}
+.container a:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    border-radius: 5%;
+    background: url("https://i.pinimg.com/564x/a9/f4/68/a9f468a00bfeeb705c9fc6ead66f99c2.jpg");
+    background-size: cover;
+    transform-origin: left;
+    transition: 0.5s;
+}
+.container a:nth-child(2):before{
+    background: url("https://i.pinimg.com/564x/ea/d4/e1/ead4e12c162ceccb378ac19f81ba24f7.jpg");
+    background-size: cover;
+}
+
+.container a:hover:before{
+    width: 100%;
+}
+.container a span{
+    position: relative;
+    z-index: 1;
+} 
