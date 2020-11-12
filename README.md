@@ -251,3 +251,12 @@ Fala Devs, beleza? 🖖
  
  * *[transform-origin: left] https://www.w3schools.com/cssref/css3_pr_transform-origin.asp*
  * *[background-size: cover] https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size*
+ 
+ ##  Desafio dia 21 - Esferas quicando <a name="id21"></a>
+  ![dia 21](https://j.gifs.com/Qn4wZ7.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia21)
+ 
+ #### O que eu aprendi
+ 
+ * * Apliquei o que já foi aprendido nos desafios anteriores.*
