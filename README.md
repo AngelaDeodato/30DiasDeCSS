@@ -260,3 +260,12 @@ Fala Devs, beleza? 🖖
  #### O que eu aprendi
  
  * * Apliquei o que já foi aprendido nos desafios anteriores.*
+ 
+  ##  Desafio dia 22 - Icones com efeito <a name="id22"></a>
+  ![dia 22](https://j.gifs.com/Qn4wZ7.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia22)
+ 
+ #### O que eu aprendi
+ 
+ * * Apliquei o que já foi aprendido nos desafios anteriores.*
