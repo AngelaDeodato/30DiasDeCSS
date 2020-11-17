@@ -269,3 +269,13 @@ Fala Devs, beleza? 🖖
  #### O que eu aprendi
  
  * * Apliquei o que já foi aprendido nos desafios anteriores.*
+ 
+  ##  Desafio dia 23 - Botão com efeito hover <a name="id23"></a>
+  ![dia 23](https://j.gifs.com/Mw3jW5.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia23)
+ 
+ #### O que eu aprendi
+ 
+ * *[place-items](https://developer.mozilla.org/en-US/docs/Web/CSS/place-items)*
+ * *[Outline](https://www.w3schools.com/css/css_outline.asp)*
