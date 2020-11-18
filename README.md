@@ -279,3 +279,12 @@ Fala Devs, beleza? 🖖
  
  * *[place-items](https://developer.mozilla.org/en-US/docs/Web/CSS/place-items)*
  * *[Outline](https://www.w3schools.com/css/css_outline.asp)*
+ 
+ ##  Desafio dia 24 - Preloader animado <a name="id24"></a>
+  ![dia 24](https://j.gifs.com/71P1PG.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia24)
+ 
+ #### O que eu aprendi
+ 
+ *  * Apliquei o que já foi aprendido nos desafios anteriores. *
