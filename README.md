@@ -288,3 +288,13 @@ Fala Devs, beleza? 🖖
  #### O que eu aprendi
  
  *  * Apliquei o que já foi aprendido nos desafios anteriores. *
+ 
+  ##  Desafio dia 25 - Checkbox animado <a name="id25"></a>
+  ![dia 25](https://j.gifs.com/BN36Gx.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia25)
+ 
+ #### O que eu aprendi
+ 
+ *  *[checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)*
+
