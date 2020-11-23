@@ -297,4 +297,13 @@ Fala Devs, beleza? 🖖
  #### O que eu aprendi
  
  *  *[checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)*
+ 
+ ##  Desafio dia 26 - Loading com efeito <a name="id26"></a>
+  ![dia 26](https://j.gifs.com/81Q7Dl.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia26)
+ 
+ #### O que eu aprendi
+ 
+ *  *[mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)*
 
