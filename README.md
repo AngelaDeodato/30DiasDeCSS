@@ -306,4 +306,13 @@ Fala Devs, beleza? 🖖
  #### O que eu aprendi
  
  *  *[mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)*
+ 
+  ##  Desafio dia 27 - Efeito pulsar <a name="id27"></a>
+  ![dia 27](https://j.gifs.com/ZY7Ev2.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia27)
+ 
+ #### O que eu aprendi
+ 
+ *  *Apliquei o que já foi aprendido nos desafios anteriores*
 
