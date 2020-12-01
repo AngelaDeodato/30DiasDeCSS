@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    animation: cor 20s infinite;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    font-family: 'Major Mono Display', monospace;
+    font-size: 5em;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+@keyframes cor {
+    0%{
+        background:  #00d4ff;
+    }
+
+    20%{
+        background:  #e61991;
+    }
+
+    40%{
+        background:#c5e994 ;
+    }
+
+    60%{
+        background:  #3f5efb;
+    }
+
+    80%{
+        background: #7857d0 ;
+    }
+    
+    100%{
+        background: #f00b0b 
+    }
+}
