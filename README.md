@@ -316,3 +316,11 @@ Fala Devs, beleza? 🖖
  
  *  *Apliquei o que já foi aprendido nos desafios anteriores*
 
+ ##  Desafio dia 28 -  Cor do background mudando <a name="id28"></a>
+  ![dia 28](https://j.gifs.com/nxwEO4.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia28)
+ 
+ #### O que eu aprendi
+ 
+ *  *Apliquei o que já foi aprendido nos desafios anteriores*
