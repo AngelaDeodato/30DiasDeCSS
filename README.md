@@ -324,3 +324,12 @@ Fala Devs, beleza? 🖖
  #### O que eu aprendi
  
  *  *Apliquei o que já foi aprendido nos desafios anteriores*
+ 
+  ##  Desafio dia 29 -  Menu responsivo com Media Queries <a name="id29"></a>
+  ![dia 29](https://j.gifs.com/r8AJkk.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia29)
+ 
+ #### O que eu aprendi
+ 
+ *  *[Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)*
