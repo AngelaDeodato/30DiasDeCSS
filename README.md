@@ -326,7 +326,7 @@ Fala Devs, beleza? 🖖
  *  *Apliquei o que já foi aprendido nos desafios anteriores*
  
   ##  Desafio dia 29 -  Menu responsivo com Media Queries <a name="id29"></a>
-  ![dia 29](https://j.gifs.com/r8AJkk.gif)
+  ![dia 29](https://media.giphy.com/media/NM8bAUUWM8lEj57E4x/giphy.gif)
   
  [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia29)
  
