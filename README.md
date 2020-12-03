@@ -333,3 +333,12 @@ Fala Devs, beleza? 🖖
  #### O que eu aprendi
  
  *  *[Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)*
+ 
+  ##  Desafio dia 30 - Fogos de artificio <a name="id30"></a>
+  ![dia 30](https://j.gifs.com/jZoQl4.gif)
+  
+ [Meu codigo](https://github.com/AngelaDeodato/30DiasDeCSS/tree/main/Dia30)
+ 
+ #### O que eu aprendi
+ 
+ *  *Apliquei o que já foi aprendido nos desafios anteriores*
